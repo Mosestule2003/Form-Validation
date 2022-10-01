@@ -9,7 +9,7 @@ Users should be able to:
 -Validate User information.
 ### Screenshot
 
-![](Screenshot 2022-09-30 195556.png)
+Screenshot 2022-09-30 195556.png
 
 
 ## My process
@@ -31,7 +31,7 @@ Continued learning on how to position divs with Position absolute.
 
 ### Useful resources
 
-- https://www.stackoverflow.com - This helped me to understand fully how to validate user-end forms.
+- [https://www.stackoverflow.com](https://stackoverflow.com/questions/29716543/form-validation-using-javascript) - This helped me to understand fully how to validate user-end forms.
 
 ## Author
 - Twitter - [@mosestule](https://www.twitter.com/yourusername)
