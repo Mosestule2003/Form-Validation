@@ -31,8 +31,11 @@ Continued learning on how to position divs with Position absolute.
 
 ### Useful resources
 
-- [](https://www.stackoverflow.com) - This helped me to understand fully how to validate user-end forms.
+- https://www.stackoverflow.com - This helped me to understand fully how to validate user-end forms.
 
 ## Author
-
 - Twitter - [@mosestule](https://www.twitter.com/yourusername)
+
+## Live URL
+ https://mosestule2003.github.io/Form-Validation/
+ 
