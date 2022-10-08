@@ -9,7 +9,7 @@ Users should be able to:
 -Validate User information.
 ### Screenshot
 
-[]!(Screenshot 2022-09-30 195556.png)
+![](Screenshot 2022-09-30 195556.png)
 
 
 ## My process
